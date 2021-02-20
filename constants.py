@@ -4,8 +4,7 @@ TEAMS = [
     'Warriors',
 ]
 
-PLAYERS = [
-    {
+PLAYERS = [{
         'name': 'Karl Saygan',
         'guardians': 'Heather Bledsoe',
         'experience': 'YES',
@@ -17,8 +16,7 @@ PLAYERS = [
         'experience': 'NO',
         'height': '40 inches'
     },
-    {
-        'name': 'Sammy Adams',
+    {   'name': 'Sammy Adams',
         'guardians': 'Jeff Adams and Gary Adams',
         'experience': 'NO',
         'height': '45 inches'
